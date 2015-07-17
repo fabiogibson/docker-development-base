@@ -10,4 +10,4 @@ Provides:
 
 You can check a more specific image implementation (Python development environment) at: 
 
-https://registry.hub.docker.com/u/fgibson/docker-development-base/
+https://registry.hub.docker.com/u/fgibson/docker-development-python/
